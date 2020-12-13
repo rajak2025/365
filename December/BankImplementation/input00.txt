@@ -1,0 +1,4 @@
+savings 301011,Grimpson,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+debit 500.0
+credit 10000.0
+calcuateInterest

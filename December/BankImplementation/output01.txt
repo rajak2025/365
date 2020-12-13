@@ -1,0 +1,7 @@
+Account created and balance in your account is: 500.0
+After debit, balance in your account is: 0.0
+After credit, balance in your account is: 200.0
+After credit, balance in your account is: 10200.0
+Insufficient funds to withdraw the amount.
+After debit, balance in your account is: 9950.0
+Amount can't be negative or 0.

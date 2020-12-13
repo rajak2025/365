@@ -1,0 +1,8 @@
+savings 301012,Sedgewick,11-02-1967,Princeton,sedgewick@gmail.com,+0017878776767,500.0
+debit 500.0
+credit 200.0
+credit 10000.0
+debit 10200.1
+debit 250.0
+credit -100
+calculateInterest
