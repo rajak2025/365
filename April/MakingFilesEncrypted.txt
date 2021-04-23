@@ -1,0 +1,7 @@
+>openssl aes-256-cbc -salt -in README.md -out README.enc.md
+>enter aes-256-cbc encryption password: 
+Veryfying - enter aes..........
+
+>openssl aes-256-cbc -d -in README.enc.md -out README.dec.md
+>cmp README.md README.dec.md
+>echo $?
